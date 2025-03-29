@@ -19,7 +19,7 @@ A modern, elegant, and fully responsive Wedding & Photography Studio Website des
 🔹 JavaScript (Vanilla JS) – Enhancing UI interactivity & smooth transitions
 
 🌍 Live Demo
-🔗 [Add your hosted link here]
+🔗 http://epsingh.me/SaurabhStudio/
 
 📂 Project Structure
 plaintext
