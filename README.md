@@ -25,7 +25,7 @@ A modern, elegant, and fully responsive Wedding & Photography Studio Website des
 plaintext
 Copy
 Edit
-/ SaurabhStudio
+  / SaurabhStudio
   ├── /img/           # Images & Assets  
   ├── styles.css  # Main CSS file  
   ├── script.js   # Main JS file  
